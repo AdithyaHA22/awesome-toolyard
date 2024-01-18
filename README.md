@@ -49,6 +49,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 ## Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)- List of Free Learning Resources In Many Languages
 - [Z library](https://z-lib.io/)- The world's largest e-book library
+- [PDF drive](https://www.pdfdrive.com/)
 ## Youtube
 - [MLOPs ZoomCamp](https://youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&si=tMmMOAHnkdr81EH1)- Free course about MLOps
 - [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=qS-fKJgGwGkT96a0)- A free course offering the core concept of linear algebra with a visuals-first approach.
@@ -62,6 +63,11 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Perplexity AI](https://www.perplexity.ai/)- The AI search engine better than wikipedia
 - [Phind AI](https://www.phind.com/)- A search engine better than ChatGPT (Free 10 GPT4 queries per day)
 - [NAAS AI](https://naas.ai/)- Jupyter Notebook as a Service. Powerful search engine for finding templates
+- [futurepedia](https://search.brave.com/search?q=futurepedia&source=desktop)-collection of ai tools
+- [runway ml](https://runwayml.com/)
+- [krea](https://www.krea.ai/apps/image/realtime)
+- [framer](https://www.framer.com/)
+- [adobefirefly](https://firefly.adobe.com/?ff_channel=adobe_com&ff_campaign=ffly_homepage&ff_source=firefly_seo)
 
 
 ## Cool Utilities
